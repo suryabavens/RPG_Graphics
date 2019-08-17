@@ -7,3 +7,4 @@ s => move down
 a => move left
 d => move right
 x => exit
+a
